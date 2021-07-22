@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T10:12:31 CDT" name="Suite" finished-at="2021-07-15T10:12:46 CDT" duration-ms="14698">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T10:12:31 CDT" name="Test" finished-at="2021-07-15T10:12:46 CDT" duration-ms="14698">
+      <class name="tests.LoginLogoutTest">
+        <test-method signature="LoginLogout()[pri:0, instance:tests.LoginLogoutTest@654f0d9c]" started-at="2021-07-15T10:12:31 CDT" name="LoginLogout" finished-at="2021-07-15T10:12:46 CDT" duration-ms="14658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginLogout -->
+      </class> <!-- tests.LoginLogoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
